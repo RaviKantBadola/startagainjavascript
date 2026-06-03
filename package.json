@@ -1,0 +1,23 @@
+{
+  "name": "startagainjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "opreatiors.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaviKantBadola/startagainjavascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RaviKantBadola/startagainjavascript/issues"
+  },
+  "homepage": "https://github.com/RaviKantBadola/startagainjavascript#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.5"
+  }
+}
