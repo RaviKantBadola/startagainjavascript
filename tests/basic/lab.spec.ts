@@ -1,7 +1,0 @@
-import {test,expect} from '@playwright/test'
-
-test('verify the title of the app.vwo.com',async({page})=>{
-
-    await page.goto("app.vwo.com");
-    await expect(page).toHaveTitle('')
-})
